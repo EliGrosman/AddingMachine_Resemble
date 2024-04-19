@@ -1,0 +1,4 @@
+playsound==1.3.0
+python-dotenv==1.0.1
+Requests==2.31.0
+resemble==1.4.2
